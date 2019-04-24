@@ -11,3 +11,4 @@ Includes my exercise solutions and projects from udacity introduction to compute
 3. **"mk003-days_between_dates.py"**: Returns total amount of days between two dates, leap days included.
 4. **"mk004-check_sudoku.py"**: Returns true if given sudoku matrix is valid.
 5. **"mk005-is_symmetric.py"**: Returns True if given list is symmetric.
+6. **"mk006-is_identity_matrix.py"**: Returns True if the input matrix is an identity matrix, False otherwise.
