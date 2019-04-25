@@ -5,8 +5,7 @@
 
 def is_identity_matrix(L):
     """
-    Returns True if the input matrix is an identity matrix,
-    False otherwise.
+    Returns True if the input matrix is an identity matrix, False otherwise.
     """
     result = len(L) == len(L[0])
     for i in range(len(L)):
