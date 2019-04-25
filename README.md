@@ -13,3 +13,4 @@ Includes my exercise solutions and projects from udacity introduction to compute
 5. **"mk005-is_symmetric.py"**: Returns True if given list is symmetric.
 6. **"mk006-is_identity_matrix.py"**: Returns True if the input matrix is an identity matrix, False otherwise.
 7. **"mk007-is_anti_symmetric.py"**: Returns True if the input matrix is anti-symmetric, False otherwise.
+8. **"mk008-frequency_analyzer.py"**: Return the frequencies of all characters in input string, by counting all repetitions of a character and dividing it by the count of all characters.
