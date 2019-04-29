@@ -1,5 +1,3 @@
-
-
 def decimal_to_binary(number):
     """
     Converts decimal numbers to binary.
@@ -76,4 +74,3 @@ print(cellular_automaton('...x....', 125, 8) == ".x...xxx")
 print(cellular_automaton('...x....', 125, 9) == "xxxx.x.x")
 
 print(cellular_automaton('...x....', 125, 10) == "...xxxxx")
-
