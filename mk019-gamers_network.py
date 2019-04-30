@@ -43,14 +43,14 @@
 #
 # Project Description
 # ====================
-# Your task is to complete the procedures according to the specifications below
-# as well as to implement a Make-Your-Own procedure (MYOP). You are encouraged
-# to define any additional helper procedures that can assist you in
-# accomplishing a task. You are encouraged to test your code by using print
-# statements and the Test Run button.
+# Your task is to complete the procedures according to the specifications
+# below. You are encouraged to define any additional helper procedures
+# that can assist you in accomplishing a task. You are encouraged to test
+# your code by using print statements and the Test Run button.
 # -----------------------------------------------------------------------------
 
 # Example string input. Use it to test your code.
+
 example_input = "John is connected to Bryant, Debra, Walter.\
 John likes to play The Movie: The Game, The Legend of Corgi, Dinosaur Diner.\
 Bryant is connected to Olive, Ollie, Freda, Mercedes.\

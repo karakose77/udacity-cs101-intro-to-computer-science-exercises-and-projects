@@ -37,3 +37,4 @@ Bell method returns the total number of k_sets of stirling numbers for k_sets = 
     1 + 2 + 3 + 4 = 10  
     1 + 2 + 3 + 4 + 5 = 15  
     Returns nth triangular number.
+19. **["mk019-gamers_network.py"](https://github.com/karakose77/udacity-cs101-intro-to-computer-science-exercises-and-projects/blob/master/mk019-gamers_network.py)**: In a website, the data is stored in a database. In our case, however, all the information comes in a big string of text. This project creates a data structure that manages the game-network information and to define several procedures that operate on the network.
