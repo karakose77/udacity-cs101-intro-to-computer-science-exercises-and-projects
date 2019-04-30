@@ -1,4 +1,4 @@
-# Question 2. Triangular Numbers
+# Triangular Numbers:
 
 # Write a procedure, triangular, that takes as its input a positive
 # integer n and returns the nth triangular number.
