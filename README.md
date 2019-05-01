@@ -38,3 +38,16 @@ Bell method returns the total number of k_sets of stirling numbers for k_sets = 
     1 + 2 + 3 + 4 + 5 = 15  
     Returns nth triangular number.
 19. **["mk019-project_gamers_network.py"](https://github.com/karakose77/udacity-cs101-intro-to-computer-science-exercises-and-projects/blob/master/mk019-project_gamers_network.py)**: In a website, the data is stored in a database. In our case, however, all the information comes in a big string of text. This project creates a data structure that manages the game-network information and to define several procedures that operate on the network.
+20. **["mk020-project_web_crawler.py"](https://github.com/karakose77/udacity-cs101-intro-to-computer-science-exercises-and-projects/blob/master/mk020-project_web_crawler.py)**: A web crawler is a program that collects content from the web. It finds web pages by starting from a seed page and following links to find other pages, and following links from the other pages it finds, and continuing to follow links until it has found many web pages. Some of the functions defined in the project are below. Details are inside.
+    * "get_page(url)"
+    * "get_next_target(page)"
+    * "get_all_links(page)"
+    * "union(a, b)"
+    * "add_page_to_index(index, url, content)"
+    * "add_to_index(index, keyword, url)"
+    * "crawl_web(seed)"
+    * "compute_ranks(graph)"
+    * "look_up(index, keyword)"
+    * "lucky_search(index, ranks, keyword)"
+    * "record_user_click(index, keyword, url)"
+    * "remove_tags(s)"
