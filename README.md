@@ -51,3 +51,14 @@ Bell method returns the total number of k_sets of stirling numbers for k_sets = 
     * "lucky_search(index, ranks, keyword)"
     * "record_user_click(index, keyword, url)"
     * "remove_tags(s)"
+  
+21. **["mk021-project_hash_function.py"](https://github.com/karakose77/udacity-cs101-intro-to-computer-science-exercises-and-projects/blob/master/mk021-project_hash_function.py)**: Given a keyword, the hash function will tell where to look in the index. It will map the keyword to a number(takes in a keyword and outputs a number) which is the position in the index where you should look for the keyword. This means we don't have to start at the beginning and look all the way through the index to find the keyword we are looking for making the search process faster. Some of the functions defined in the project are below. Details are inside.
+    * "hash_table_update(hash_table, keyword, value)"
+    * "hash_table_lookup(hash_table, keyword)"
+    * "hash_table_add(hash_table, keyword, value)"
+    * "hash_table_get_bucket(hash_table, keyword)"
+    * "make_hash_table(nbuckets)"
+    * "hash_string(keyword, buckets)"
+    * "test_hash(hash_function, url, size)"
+    * "source_get(url)"
+    * "source_clean(source)"
